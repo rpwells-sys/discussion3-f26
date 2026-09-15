@@ -1,23 +1,30 @@
 body{
-    background-color: pink;
+    background-color: lemonchiffon;
 }
 
 h1 {
     font-weight: bolder;
     font-size: 50px;
+    color: purple;
 }
 
 h2 {
-    font-weight: light;
-    font-size: 20px;
+    font-weight: bold;
+    font-size: 30px;
     text-decoration: underline;
 }
 
 p {
-    font-family: Courier;
+    font-family: Helvetica;
 }
 
 ul{
-    list-style-type: disc;
+    list-style-type: square;
 }
-
+img {
+    width: 300px;
+    border: solid 5px #4f4cf7;
+}
+.step4 {
+    background-color: rgb(214, 99, 99);
+}
